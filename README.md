@@ -4,6 +4,6 @@ Aluno: Gustavo Julio Souza Nunes.
 
 Professor: Abrantes Araújo Silva Filho.
 
-Turma: SI1N
+Turma: SI1N.
 
 Repositório criado para publicação do projeto PSET 1.
