@@ -7,10 +7,10 @@ DROP ROLE IF EXISTS gustavo;
 
 --comando para criar o user para criação do banco de dados
 CREATE USER gustavo 
-	   WITH encrypted password '123'
-	   		login
-	   		createrole
-	   	    createdb;
+       WITH encrypted password '123'
+ 	    login
+	    createrole
+	    createdb;
 
 --comando para criação do banco de dados uvv
 CREATE DATABASE uvv
